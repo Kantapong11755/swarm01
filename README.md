@@ -1,8 +1,8 @@
 ### Ref
-- [https://github.com/docker/awesome-compose/tree/master/plex]
+- [https://github.com/docker/awesome-compose/tree/master/gitea-postgres]
 
 ### wakatime swarm02 link
-- [https://wakatime.com/@spcn12/projects/offfhsprcp?start=2023-02-27&end=2023-03-05]
+- [https://wakatime.com/@spcn12/projects/offfhsprcp]
 
 
 ## Create VM template 
