@@ -1,7 +1,7 @@
 ### Ref
 - [https://github.com/docker/awesome-compose/tree/master/gitea-postgres]
 
-### wakatime swarm02 link
+### wakatime swarm01
 - [https://wakatime.com/@spcn12/projects/uojazsynms]
 
 
