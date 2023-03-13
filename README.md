@@ -76,7 +76,7 @@ spcn12gitea.xops.ipv9.xyz
 ```
 
 
-https://github.com/Kantapong11755/swarm01/issues/2#issue-1620721363
+![image](https://github.com/Kantapong11755/swarm01/issues/2#issue-1620721363)
   
   
   
