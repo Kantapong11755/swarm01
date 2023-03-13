@@ -1,8 +1,8 @@
 ### Ref
-- [https://github.com/docker/awesome-compose/tree/master/plex] **เปลี่ยน**
+- [https://github.com/docker/awesome-compose/tree/master/plex]
 
 ### wakatime swarm02 link
-- [https://wakatime.com/@spcn12/projects/offfhsprcp?start=2023-02-27&end=2023-03-05] **เปลี่ยน**
+- [https://wakatime.com/@spcn12/projects/offfhsprcp?start=2023-02-27&end=2023-03-05]
 
 
 ## Create VM template 
