@@ -6,7 +6,7 @@
 - [https://wakatime.com/@spcn12/projects/uojazsynms]
 
 
-### Create VM template 3 node (manager, work1,waork2)
+### Create VM template 3 node (manager, work1,work2)
   * Os Ubuntu 22.04
   * Cpu 2 core
   * Memory 2024 MB
