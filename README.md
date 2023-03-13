@@ -18,7 +18,7 @@
   * Github
   * Folder swarm01, swarm02 (managernode) choose app frome Reference to swarm01 floder
   
-### BUILD-IMAGE --> TAG ---> LOGIN DOCGER IN VM --> 
+### BUILD-IMAGE --> TAG ---> LOGIN DOCGER IN VM --> PUSH TO DOCKER
   * Build images
   * cd to path folder swarm01 and run this command
 ```
