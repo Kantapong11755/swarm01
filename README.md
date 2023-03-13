@@ -2,7 +2,7 @@
 - [https://github.com/docker/awesome-compose/tree/master/gitea-postgres]
 
 ### wakatime swarm02 link
-- [https://wakatime.com/@spcn12/projects/offfhsprcp]
+- [https://wakatime.com/@spcn12/projects/uojazsynms]
 
 
 ## Create VM template 
